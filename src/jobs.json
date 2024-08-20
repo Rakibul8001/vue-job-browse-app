@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Senior Vue Dev",
-      "type": "Full-Time",
-      "location": "Boston, MA",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-      "salary": "$90K - $100K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      },
-      "id": "1"
-    },
-    {
       "id": "2",
       "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
@@ -125,6 +111,34 @@
         "contactPhone": "+1 (271) 267-6595"
       },
       "id": "4397"
+    },
+    {
+      "title": "Isabelle Shelton",
+      "type": "Full-Time",
+      "location": "Corporis mollit aut ",
+      "description": "Aut velit reprehend",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Mathis and Bowman LLC",
+        "description": "Assumenda asperiores",
+        "contactEmail": "wilekubu@mailinator.com",
+        "contactPhone": "+1 (718) 518-6738"
+      },
+      "id": "b8d1"
+    },
+    {
+      "title": "Hammett Becker",
+      "type": "Full-Time",
+      "location": "Do autem dolor facil",
+      "description": "Veniam corporis con",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Humphrey Hoover Associates",
+        "description": "Rerum cumque modi lo",
+        "contactEmail": "disoxen@mailinator.com",
+        "contactPhone": "+1 (845) 765-6809"
+      },
+      "id": "2f17"
     }
   ]
 }
